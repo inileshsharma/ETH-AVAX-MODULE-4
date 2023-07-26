@@ -10,8 +10,6 @@ To support their ambitious plans, Degen Gaming has selected the Avalanche blockc
 
 ## Getting Started
 
-### Installing
-
 Clone this repository.
 
 Metamask wallet is required.
