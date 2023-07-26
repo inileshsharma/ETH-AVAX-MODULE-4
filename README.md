@@ -16,7 +16,8 @@ Metamask wallet is required.
 
 Create a Account on snowtrace. 
 
-### program requirements
+## Program requirements
+
 The smart contract should have the following functionality:
 
 Minting new tokens: The platform should be able to create new tokens and distribute them to players as rewards. Only the owner can mint tokens.
