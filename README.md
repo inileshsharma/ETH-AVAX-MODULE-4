@@ -31,7 +31,7 @@ Checking token balance: Players should be able to check their token balance at a
 Burning tokens: Anyone should be able to burn tokens, that they own, that are no longer needed.
 
 
-## Help
+## Functions 
 
 Mint function
 ```
