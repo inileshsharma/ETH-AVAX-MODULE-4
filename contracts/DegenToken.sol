@@ -20,7 +20,7 @@ contract DegenToken is ERC20, Ownable {
     }
 
     function TransferToken(address _reciever,uint amount) external  {
-        require(balanceOf(msg.sender)>=amount,"Sorry, Not enough degan tokens available");
+        require(balanceOf(msg.sender)>=amount,"ENTER AMOUNT LESS THAN OR EQUAL TO BALANCE");
         approve(msg.sender, amount);
         transferFrom(msg.sender, _reciever, amount);
     }
